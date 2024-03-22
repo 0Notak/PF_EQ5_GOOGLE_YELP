@@ -1,2 +1,7 @@
 # PF_EQ5_GOOGLE_YELP
+
+![image](https://github.com/0Notak/PF_EQ5_GOOGLE_YELP/assets/149798101/3e7b0ccc-84a4-4bba-bfab-8be18e294c2a)
+
+
+
  PROYECTO DE SISTEMA DE RECOMENDACIONES GOOGLE YELP
