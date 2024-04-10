@@ -71,6 +71,6 @@ Fuentes de datos obligatorias:
 
 - Hevert Daniel Martinez Dominguez | Data Engineer | [Link Github](https://github.com/0Notak)
 - Marko Misael Sotola | Machine Learning Engineer | [Link Github](https://github.com/marko7768) 
-- Max Enoc Moreno Navarrete | Data Analist | [Link Github](https://github.com/MENM-HRRY)
+- Max Enoc Moreno Navarrete |  Data Analyst | [Link Github](https://github.com/MENM-HRRY)
 
 
