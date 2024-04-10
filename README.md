@@ -48,10 +48,10 @@ El pipeline de datos consta de varias etapas, que se detallan a continuación:
 
 ## **Cronograma**
 
-El proyecto se desarrollará en un período de 6 semanas, con tres sprint que son los siguientes:
-- Sprint 1: Puesta en macha del proyecto. 2 Semanas
-- Sprint 2: Data Engineering. 2 Semanas
-- Sprint 3: Data Analitics y Machine learning. 2 Semanas.
+El proyecto se desarrollará en un período de 3 semanas, con tres sprint que son los siguientes:
+- Sprint 1: Puesta en macha del proyecto. 1 Semana
+- Sprint 2: Data Engineering. 1 Semana
+- Sprint 3: Data Analitics y Machine learning. 1 Semana
 
 .
 
