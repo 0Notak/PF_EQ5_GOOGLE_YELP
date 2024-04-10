@@ -52,7 +52,10 @@ El proyecto se desarrollará en un período de 6 semanas, con tres sprint que so
 - Sprint 1: Puesta en macha del proyecto. 2 Semanas
 - Sprint 2: Data Engineering. 2 Semanas
 - Sprint 3: Data Analitics y Machine learning. 2 Semanas.
-[Cronograma](https://github.com/williamCastro32/PF_Google_yelp_Map/blob/main/docs/Imagenes/diagrama_Gantt.jpg)
+
+.
+
+Revisar: [Cronograma o Modelo de Grantt](https://github.com/0Notak/PF_EQ5_GOOGLE_YELP/blob/rama_Daniel/EXTRA/MODELO%20GRANTT%20EQ5.pdf)
 <p align="right">(<a href="#readme-top">ir arriba</a>)</p>
 
 ## **Fuentes de datos**
