@@ -29,8 +29,8 @@ Las metricas aplicables pueden ser un número o una estadística que indique el 
 
 * **Aumentar el nivel de satifación del cliente en 10% para los proximos seis meses**: La atracción de clientes nuevos y mantener cautivos a los que son fieles le permite a las empresas mejorar y crecer, por lo que la satisfacción del cliente se puede leer a través de las reviews en plataformas como Google Maps y Yelp, esto se vera reflejado en nuestro clasificador. Apoyándonos del valor de promedio e monitoreado en tiempo real del local hasta lograr la meta fijada.
 Total de reviews positivas por local, entre el total de las reviews divido entre el periodo de interes.Buscamos aumentar este porcentajes de mensajes positivos dado que esto nos dara una mejor posicion en el mercado.
- 
- 
+
+* **Aumentar en un 20% el volumen de las reseñas durante un plazo de seis meses**
 
 
 
