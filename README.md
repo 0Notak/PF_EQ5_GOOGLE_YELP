@@ -2,15 +2,25 @@
 
 [![image](https://github.com/0Notak/PF_EQ5_GOOGLE_YELP/assets/149798101/3e7b0ccc-84a4-4bba-bfab-8be18e294c2a)](https://camo.githubusercontent.com/953e3aeda5322462b234c4dace6aa8796f4bc6e250efc943c4091b189a6b237e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61642f59656c705f4c6f676f2e7376672f3235363070782d59656c705f4c6f676f2e7376672e706e67)
  
- 
+ ## Alcance del Proyecto
+A través de este proyecto, se obtendrá información valiosa sobre la percepción de los clientes y la reputación de los locales de las Pizzerías en los estados de California y Florida seleccionado como muestra representativa de su densidad demográfica. Sin embargo, es importante tener en cuenta las limitaciones del proyecto antes de tomar decisiones finales. Ya que el análisis se basa en datos disponibles públicamente, que pueden ser incompletos o inexactos.
+El proyecto no considera factores no cuantificables, ya que la evaluación exhaustiva de todos los involucrados pertinentes plantea un reto y debemos tener presente que los cambios en preferencias y tendencias no se pueden prever completamente con datos históricos.
+Se recopilaron datos de reseñas y calificaciones de plataformas como Yelp y Google Maps; los cuales se analizaron los datos para obtener información sobre las reseñas de cada pizzería.
 
- # PROYECTO DE SISTEMA DE RECOMENDACIONES GOOGLE YELP
 
- Descripción del Proyecto: Pipeline en GCP para ETL y Modelado de Machine Learning
+## Objetivo General:
+Desarrollar un sistema de recomendaciones de pizzerías que potencie el servicio de delivery de nuestro cliente inversionista, permitiéndole ofrecer a sus usuarios una experiencia personalizada y de alto valor, al recomendarles las pizzerías más relevantes según su ubicación, preferencias y necesidades.
+
+
+# PROYECTO DE SISTEMA DE RECOMENDACIONES GOOGLE YELP
+
+Descripción del Proyecto: Pipeline en GCP para ETL y Modelado de Machine Learning
 Introducción
 
 Este repositorio contiene el código y la documentación asociada a un proyecto de pipeline en Google Cloud Platform (GCP) destinado a realizar el proceso de Extracción, Transformación y Carga (ETL) de varios conjuntos de datos en formato Parquet. El objetivo principal del proyecto es llevar a cabo la preparación de datos y el entrenamiento de modelos de Machine Learning utilizando servicios nativos de GCP, como Cloud Storage, Cloud Functions, Cloud SQL y Vertex AI.
 Stack Tecnológico
+
+
 
 ## El stack tecnológico utilizado en este proyecto incluye:
 Descripcion visual del Stack tecnologico:
@@ -71,6 +81,6 @@ Fuentes de datos obligatorias:
 
 - Hevert Daniel Martinez Dominguez | Data Engineer | [Link Github](https://github.com/0Notak)
 - Marko Misael Sotola | Machine Learning Engineer | [Link Github](https://github.com/marko7768) 
-- Max Enoc Moreno Navarrete | Data Analist | [Link Github](https://github.com/MENM-HRRY)
+- Max Enoc Moreno Navarrete |  Data Analyst | [Link Github](https://github.com/MENM-HRRY)
 
 
