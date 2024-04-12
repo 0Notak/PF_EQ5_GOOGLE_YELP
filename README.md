@@ -1,6 +1,28 @@
 # PF_EQ5_GOOGLE_YELP
 
 [![image](https://github.com/0Notak/PF_EQ5_GOOGLE_YELP/assets/149798101/3e7b0ccc-84a4-4bba-bfab-8be18e294c2a)](https://camo.githubusercontent.com/953e3aeda5322462b234c4dace6aa8796f4bc6e250efc943c4091b189a6b237e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61642f59656c705f4c6f676f2e7376672f3235363070782d59656c705f4c6f676f2e7376672e706e67)
+
+
+
+
+# KPIs
+Definición
+
+*Key Performance Indicator* ⇒ *Indicador Clave de Desempeño*
+
+KPI se utilizan para medir el progreso de las estrategias utilizadas para alcanzar los objetivos propuestos.
+Su aplicación se debe apoyar en el uso de métricas que contabilizan algún aspecto específico de una empresa o proyecto. 
+Las metricas aplicables pueden ser un número o una estadística que indique el rendimiento de un proceso o actividad. 
+
+![alt text](https://github.com/0Notak/PF_EQ5_GOOGLE_YELP/blob/rama_Max/image.png?raw=true)
+
+# KPIs propuestos
+
+* **Aumentar en un 20% las respuestas que las pizzerias dan a las reseñas de sus clientes en un periodo de seis meses**: Creemos que si las pizzerias mantienen una taza  de respuesta mayor a la media le traerá un mayor flujo  de clientes y para ello es necesario dar  respuesta a los cometarios. Midiendo el nivel de respuesta del local entre la cantidad total de reviews en un periodo de seis meses.
+
+* **Aumentar el nivel de satifación del cliente en 10% para los proximos seis meses**: La atracción de clientes nuevos y mantener cautivos a los que son fieles le permite a las empresas mejorar y crecer, por lo que la satisfacción del cliente se puede leer a través de las reviews en plataformas como Google Maps y Yelp, esto se vera reflejado en nuestro clasificador. Apoyándonos del valor de promedio e monitoreado en tiempo real del local hasta lograr la meta fijada.
+Total de reviews positivas por local, entre el total de las reviews divido entre el periodo de interes.Buscamos aumentar este porcentajes de mensajes positivos dado que esto nos dara una mejor posicion en el mercado.
+ 
  
  ## Alcance del Proyecto
 A través de este proyecto, se obtendrá información valiosa sobre la percepción de los clientes y la reputación de los locales de las Pizzerías en los estados de California y Florida seleccionado como muestra representativa de su densidad demográfica. Sin embargo, es importante tener en cuenta las limitaciones del proyecto antes de tomar decisiones finales. Ya que el análisis se basa en datos disponibles públicamente, que pueden ser incompletos o inexactos.
@@ -25,7 +47,7 @@ Stack Tecnológico
 ## El stack tecnológico utilizado en este proyecto incluye:
 Descripcion visual del Stack tecnologico:
 
-<img src="https://i.ibb.co/xhpWckt/STACK.png" alt="STACK" border="0">
+<img src='https://i.postimg.cc/JzXQWFb0/STACK.png' border='0' alt='STACK'/>
 
 
 
