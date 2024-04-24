@@ -19,3 +19,14 @@ Las metricas aplicables pueden ser un número o una estadística que indique el 
 Total de reviews positivas por local, entre el total de las reviews divido entre el periodo de interes.Buscamos aumentar este porcentajes de mensajes positivos dado que esto nos dara una mejor posicion en el mercado.
  
 * **Aumentar en un 20% el volumen de las reseñas durante un plazo de seis meses**: Las reviews son muy importantes para la dinamica del negocio, incentivar el uso de nuestro servicio para que los usuarios realicen reseñas honestas, nos permitira que se pueda subir en un porcentaje del nivel de reseñas, La métrica que utilizaremos sera un conteo de las reviews totales que realiza un usuario para cada local a lo largo del periodo establecido de 6 meses, tomando en cuenta su valoracion de utilidad. Esperamos que el usuario sea recompensdo por realizar reseñas con promociones lo cual motivara a realizar recomendaciones objetivas ya que en caso de reviews negativas el local en cuestion tiene derecho de réplica.
+
+
+
+<h1>Autor:</h1>
+
+Max Moreno<br>
+Email: [maxenoc@outlook.com](maxenoc@outlook.com)<br>
+[GitHub](https://github.com/0Notak/PF_EQ5_GOOGLE_YELP/blob/rama_Max/LTDMinds%20Consultor%C3%ADa_KPI.md) <br>
+[LinkedIn](https://www.linkedin.com/in/max-enoc-moreno-293a3915b/)
+
+
