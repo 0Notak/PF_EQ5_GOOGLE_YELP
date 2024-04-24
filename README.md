@@ -5,3 +5,13 @@
  
 
  PROYECTO DE SISTEMA DE RECOMENDACIONES GOOGLE YELP
+
+
+
+
+<h1>Autor:</h1>
+
+Max Moreno<br>
+Email: [maxenoc@outlook.com](maxenoc@outlook.com)<br>
+[GitHub](https://github.com/0Notak/PF_EQ5_GOOGLE_YELP/tree/rama_Max) <br>
+[LinkedIn](https://www.linkedin.com/in/max-enoc-moreno-293a3915b/)
